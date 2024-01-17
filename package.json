@@ -1,0 +1,19 @@
+{
+  "name": "template-generator",
+  "version": "1.0.0",
+  "description": "Generate templates",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "feat": "./index.js"
+  },
+  "dependencies": {
+    "inquirer": "^8.0",
+    "chalk": "^4.0"
+  },
+  "author": "Máté Nagy",
+  "license": "ISC"
+}
